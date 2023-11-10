@@ -4,7 +4,7 @@
 
 int main(int argc, char** argv) {
 	Empleado empleado;
-	empleado.apellido = "Pena";
+	
 	
 	
 	return 0;
