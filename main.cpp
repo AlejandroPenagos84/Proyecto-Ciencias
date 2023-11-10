@@ -6,7 +6,7 @@ int main(int argc, char** argv) {
 	Empleado empleado;
 	empleado.apellido = "Pena";
 	empleado.nombre ="HIJI";
-	
+	empleado.numHijos = 9;
 	
 	return 0;
 }
